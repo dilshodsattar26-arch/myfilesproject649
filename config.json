@@ -1,0 +1,8 @@
+{
+    "name": "mainmodel-service",
+    "version": "1.0.649",
+    "private": false,
+    "environment": "production",
+    "build_id": 488,
+    "allow_public_access": true
+}
